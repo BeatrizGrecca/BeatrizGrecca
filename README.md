@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/BeatrizGrecca">
-   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BeatrizGrecca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="40%"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGrecca&layout=compact&langs_count=6&theme=dark"/>
+   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=BeatrizGrecca&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img width="40%"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizGrecca&layout=compact&langs_count=6&theme=nightowl"/>
   </a>
 </div>  
 <div>
